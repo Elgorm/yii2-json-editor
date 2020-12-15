@@ -16,7 +16,7 @@ class JsonEditorAsset extends AssetBundle
     /**
      * @var string
      */
-    public $sourcePath = '@npm/json-editor--json-editor/dist';
+    public $sourcePath = '@npm/json-editor/dist';
 
     /**
      * @inheritdoc
